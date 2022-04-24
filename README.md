@@ -1,2 +1,0 @@
-# JinBlog
-my first code
